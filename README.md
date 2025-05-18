@@ -11,7 +11,7 @@
 
 - 🌱 Currently diving deep into **Spring Boot**
 - 💬 Open to discussions on **Java, Spring Boot, Backend Dev, REST APIs**
-- 👨‍💻 Check out all my work here: [GitHub Portfolio]([https://github.com/AKASH-PALVE](https://github.com/AKASH-PALVE?tab=repositories))
+- 👨‍💻 Check out all my work here: [GitHub Portfolio](https://github.com/AKASH-PALVE?tab=repositories)
 - 📫 Reach me at: **akashpalve000@gmail.com**
 - 📄 Want to know more? [Explore My Resume](https://drive.google.com/file/d/1n1iPmkIe8hY5TPm-U4kalBqCzuecdtYA/view?usp=drive_link)
 
